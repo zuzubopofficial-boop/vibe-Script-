@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "name": "VibeScript - हिंदी वीडियो ट्रांसक्रिप्ट",
+  "short_name": "VibeScript",
+  "description": "यूट्यूब, फेसबुक एवं इंस्टाग्राम वीडियो व रील्स का शुद्ध हिंदी ट्रांसक्रिप्ट स्टूडियो",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

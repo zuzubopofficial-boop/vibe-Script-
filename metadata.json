@@ -1,0 +1,6 @@
+{
+  "name": "VibeScript - FB & YouTube Transcript Studio",
+  "description": "AI-powered video transcript generator for YouTube and Facebook. Extract accurate transcripts, timestamps, Hindi & multilingual translations, chapter markers, and instant summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
